@@ -1,7 +1,3 @@
-# Первый персональный проект курса → [Профессиональный курс по React, Redux, MobX, TypeScript](https://lectrum.io/course/react-redux?utm_medium=referral&utm_source=gitlab-weather&utm_campaign=rtx)
-
-Добро пожаловать! 🚀
-
 1. Для установки зависимостей выполни:
 
 ```sh
